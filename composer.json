@@ -1,0 +1,16 @@
+{
+    "name": "chandra/phpunit_basic",
+    "description": "this is basic example of phpunit",
+    "type": "library",
+    "require-dev": {
+        "phpunit/phpunit": "^7.5"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "chandra prakash pal",
+            "email": "chandra.getwebsoftware@gmail.com"
+        }
+    ],
+    "require": {}
+}
