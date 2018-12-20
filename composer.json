@@ -12,5 +12,6 @@
             "email": "chandra.getwebsoftware@gmail.com"
         }
     ],
-    "require": {}
+    "require": {},
+    "minimum-stability": "dev"
 }
